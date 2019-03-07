@@ -1,0 +1,24 @@
+{
+  "name": "simplenode",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek029/simplenode.git"
+  },
+  "keywords": [
+    "node",
+    "easy",
+    "dev"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek029/simplenode/issues"
+  },
+  "homepage": "https://github.com/abhishek029/simplenode#readme"
+}
